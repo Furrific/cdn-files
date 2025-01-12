@@ -1,6 +1,6 @@
-# Scotiacon CDN Repository
+# Furrific CDN Repository
 
-A collection of files that may be useful for any web project. The files are hosted at https://cdn.scotiacon.org.uk
+A collection of files that may be useful for any web project. The files are hosted at https://cdn.furrific.uk
 
 ## Structure
 
